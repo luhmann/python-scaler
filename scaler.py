@@ -1,5 +1,5 @@
 from __future__ import division
-from PIL import Image, ImageOps
+from PIL import Image
 import settings
 
 
