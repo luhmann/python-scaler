@@ -1,0 +1,11 @@
+# ide
+/.idea
+
+# virtualenv
+/scaler
+
+# seed data
+/test_img
+
+# python compile files
+*.pyc
